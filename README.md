@@ -1,2 +1,2 @@
 # Easy-Resume-Builder
-This Is A Resume Builder Web Project Which Provide Some Pre-Define Resume Tample To Build Your Resume Easily. 
+This is a website created to help people build their professional resumes in a few steps for free.
