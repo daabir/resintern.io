@@ -1,7 +1,9 @@
 Easy Resume Builder
 This is a website created (for internship project) to help people build their professional resumes in a few steps for free.
 
-ALSO, THIS SITE WON'T BE ABLE TO RUN LIVE ON GITHUB PAGES BECAUSE IT IS PROGRAMMED IN PHP. GITHUB DOES NOT SUPPORT LIVE PAGES. GITHUB ONLY ALLOWS SITES CODED IN HTML CSS AND JAVASCRIPT TO RUN LIVE.
-IN ORDER TO RUN THIS SITE, PLEASE DOWNLOAD THE CODE AND RUN IT ON LOCALHOST.
-
-THANKYOU FOR YOUR PATIENCE.
+STEPS:
+1. Clone or Download the repo.
+2. Copy the downloaded or cloned directory into htdocs folder.
+3. You can locate the htdocs folder by going to xampp or wampp or lampp folder, depending on what software you are using.
+4. For windows users, it will be located in the C:/ drive by default. For Linux users the location is /opt/lampp/htdocs/
+5. Start your xampp and run the program in your preferred browser by using the localhost link.
